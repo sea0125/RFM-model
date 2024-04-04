@@ -20,9 +20,11 @@ including but not limited to:
 **Data Quality**
 1. Clean and Accurate Data: Ensure that customer data is clean, accurate, and up-to-date. Incorrect data can lead to faulty analysis and decisions.
 2. Comprehensive Data Collection: Collect comprehensive data across all customer touchpoints to get a holistic view of customer behavior.
+
 **Segmentation Criteria**
 1. Defining RFM Parameters: Clearly define what recency, frequency, and monetary value mean within your business context. These definitions can vary depending on the nature of the business and the customer lifecycle.
 2. Segmentation Thresholds: Establish meaningful thresholds for each RFM parameter to create relevant segments. These thresholds should be based on historical data analysis and business objectives.
+
 **Continuous Improvement**
 1. Regular Updates and Analysis: RFM segments should be updated regularly to reflect the most current customer behaviors. Regularly review and adjust the segmentation criteria and thresholds based on new data.
 2. Testing and Learning: Continuously test the effectiveness of targeted strategies for different RFM segments and learn from the outcomes. Use A/B testing to refine approaches and improve ROI.
